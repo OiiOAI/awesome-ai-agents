@@ -34,7 +34,7 @@ Updated monthly. PRs welcome.
 
 ## Orchestration Frameworks
 
-- [Auto-Evolve](https://github.com/cittaverse/auto-evolve) - General framework for AI agent autonomous evolution with closed-loop iteration (research→execute→verify→learn).
+- [Auto-Evolve](https://github.com/cittaverse/auto-evolve) — General framework for AI agent autonomous evolution with closed-loop iteration (research→execute→verify→learn).
 - [AutoGen](https://github.com/microsoft/autogen) - Event-driven multi-agent framework merged with Semantic Kernel for production workflows.
 - [CrewAI](https://github.com/joaomdmoura/crewAI) - Role-playing agent orchestration for collaborative agent teams.
 - [Google ADK](https://github.com/google/adk-python) - Modular agent dev kit integrating Gemini/Vertex AI.
