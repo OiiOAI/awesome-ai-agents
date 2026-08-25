@@ -94,6 +94,8 @@ Updated monthly. PRs welcome.
 - [Agent OS](https://github.com/agentosdev/agentos) - Kernel architecture for governing autonomous AI agents.
 - [AgentGuard](https://github.com/agentguard/agentguard) - Runtime observability and guardrails for AI agents with loop detection.
 - [APort Agent Guardrails](https://github.com/aporthq/agent-guardrails) - Pre-action authorization plugin for agent frameworks.
+- [Mneme](https://github.com/MnemeHQ/mneme) - Architectural drift prevention for the agentic AI SDLC; turns ADRs into deterministic guardrails that keep AI coding agents from shipping architecture-incompatible code.
+
 - [Orchard Kit](https://github.com/orchardlabs/orchard-kit) - Modules for agent runtime security, self-audit, and collective cognition.
 
 ## Learning Resources
