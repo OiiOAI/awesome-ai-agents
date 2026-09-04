@@ -71,6 +71,7 @@ Updated monthly. PRs welcome.
 
 ## Agent Tooling and Infrastructure
 
+- [AIWG](https://github.com/jmagly/aiwg) - Deploys reusable agents, skills, rules, and workflows into coding-platform project paths. Keeps artifacts inspectable and supports approval-gated orchestration.
 - [AgentDock](https://github.com/agentdock/agentdock) - Framework for building and deploying production-ready AI agents.
 - [E2B](https://github.com/e2b-dev/e2b) - Cloud sandboxes for AI agents to run code securely.
 - [Firecrawl](https://github.com/mendableai/firecrawl) - Web scraping API built for LLMs that converts websites to clean markdown.
